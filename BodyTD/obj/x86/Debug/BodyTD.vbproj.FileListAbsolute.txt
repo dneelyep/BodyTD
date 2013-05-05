@@ -1,0 +1,11 @@
+c:\users\daniel\documents\visual studio 2010\Projects\BodyTD\BodyTD\bin\Debug\BodyTD.exe
+c:\users\daniel\documents\visual studio 2010\Projects\BodyTD\BodyTD\bin\Debug\BodyTD.pdb
+c:\users\daniel\documents\visual studio 2010\Projects\BodyTD\BodyTD\bin\Debug\BodyTD.xml
+c:\users\daniel\documents\visual studio 2010\Projects\BodyTD\BodyTD\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2010\Projects\BodyTD\BodyTD\obj\x86\Debug\BodyTD.Resources.resources
+c:\users\daniel\documents\visual studio 2010\Projects\BodyTD\BodyTD\obj\x86\Debug\BodyTD.Window.resources
+c:\users\daniel\documents\visual studio 2010\Projects\BodyTD\BodyTD\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\daniel\documents\visual studio 2010\Projects\BodyTD\BodyTD\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\daniel\documents\visual studio 2010\Projects\BodyTD\BodyTD\obj\x86\Debug\BodyTD.exe
+c:\users\daniel\documents\visual studio 2010\Projects\BodyTD\BodyTD\obj\x86\Debug\BodyTD.xml
+c:\users\daniel\documents\visual studio 2010\Projects\BodyTD\BodyTD\obj\x86\Debug\BodyTD.pdb
